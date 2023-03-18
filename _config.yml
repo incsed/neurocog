@@ -60,31 +60,34 @@ author:
   avatar : "/assets/images/Escudo-UNAM-gris-01-267x300.png"
   bio    : "Facultad de Psicología, Universidad Nacional Autónoma de México"
   links:
-    - label: "Website"
+    - label: "Neurocogcialab"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
+      url: "https://neurocogcialab.org"
+    - label: "neurocogcialab"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
+      url: "https://twitter.com/neurocogcialab"
+    - label: "Neurocogcialab"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
+      url: "https://github.com/neurocogcialab"
+    - label: "Neurocogcialab"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/neurocogcialab"
 
 footer:
   links:
-    - label: "Twitter"
+    - label: "Neurocogcialab"
+      icon: "fas fa-fw fa-link"
+      url: "https://neurocogcialab.org"
+    - label: "neurocogcialab"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
+      url: "https://twitter.com/neurocogcialab"
+    - label: "Neurocogcialab"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
+      url: "https://github.com/neurocogcialab"
+    - label: "Neurocogcialab"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-
+      url: "https://instagram.com/neurocogcialab"
+  
 defaults:
   # _posts
   - scope:
